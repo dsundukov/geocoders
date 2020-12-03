@@ -1,0 +1,1 @@
+﻿['ТУРЦИЯ', 'x_y', '41.1003', '28.9792', '2. ÇEVRE YOLU, HAMIDIYE MAHALLESI, SEYRANTEPE MAHALLESI, СТАМБУЛ, МРАМОРНОМОРСКИЙ РЕГИОН, 34408, ТУРЦИЯ']
